@@ -272,10 +272,10 @@ r      =       np.linspace(  1e-20, 5, 500 )
 #                               ^ Very small value to avoid computation troubles with zero
 
 # The momentum
-k               =       np.linspace(  1e-20, 5, 500  )
+k      =       np.linspace(  1e-20, 5, 500  )
 
 # Define the range of Z
-Z       =       np.arange(  2, 11, 1  )
+Z      =       np.arange(  2, 11, 1  )
 
 shannon_r     =       []
 
