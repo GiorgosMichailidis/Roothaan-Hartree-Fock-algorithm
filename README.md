@@ -7,4 +7,4 @@ The notebook was developed during the course Computational Quantum Physics at th
 1. The notebook with the Python implementation of the Roothaan-Hartree-Fock algorithm.
 2. A PDF report that discusses the implementation of the Roothaan-Hartree-Fock method, presents the mathematical framework used to estimate the electron density
 ρ(r) and the wavefunctions, and the results of the analysis that were compared with the findings of Chatzisavvas et al. (2005), upon which this work is based.
-3.
+3. Related plots: 1) A
