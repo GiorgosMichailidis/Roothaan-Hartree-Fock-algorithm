@@ -9,4 +9,4 @@ The notebook was developed during the course Computational Quantum Physics at th
 2. A PDF report that discusses the implementation of the Roothaan-Hartree-Fock method, presents the mathematical framework used to estimate the electron density
 ρ(r) and the wavefunctions, and the results of the analysis that were compared with the findings of Chatzisavvas et al. (2005), upon which this work is based.
 
-3. Related plots: 1) An example of an obtained electron and radial density distribution of the atom Ne, 2) The fitting of the Shannon entropy as a function of Z, 3) An example of an obtained radial orbital wavefunctions of the atom Ne, 4) The Shannon entropies compared to the Chatzisavvas et al. (2005) results.
+3. Related plots: 1) An example of an obtained electron and radial density distribution of the atom Ne, 2) The fitting of the Shannon entropy as a function of Z, 3) An example of an obtained radial orbital wavefunction of the atom Ne, 4) The Shannon entropies compared to the Chatzisavvas et al. (2005) results.
